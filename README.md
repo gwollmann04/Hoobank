@@ -9,6 +9,7 @@ This project was created with the idea of ​​using and learning a little abou
 In addition, the application was also deployed on Netlify, you can access it through the link:
 
 - [Hoobank](https://gwollmannbank.netlify.app/)
+- [Course Link](https://www.youtube.com/watch?v=F627pKNUCVQ&t=3s&ab_channel=JavaScriptMastery)
 
 ## 🛠 Technologies
 
